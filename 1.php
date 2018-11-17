@@ -1,5 +1,6 @@
 <?php 
 
+echo "hello ssh";
 
 
 
@@ -9,11 +10,3 @@
 
 
 
-
-
-
-
-
-
-echo "string";
-echo "123";
